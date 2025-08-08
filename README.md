@@ -84,7 +84,7 @@ The dataset was sourced from Kaggle: [**Most Streamed Spotify Songs 2023**](http
    git clone https://github.com/sh-kartik18/Spotify-Dashboard.git
 2. Download the dataset from Kaggle.
 3. Fetch your Spotify API credentials from Spotify Developer Dashboard.
-4. Run get_album_covers.py to enrich your dataset with album covers.
+4. Run get_album_covers.ipynb to enrich your dataset with album covers.
 5. Open the .pbix file in Power BI Desktop.
 6. Interact with the dashboard!
 
