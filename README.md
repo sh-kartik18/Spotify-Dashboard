@@ -66,7 +66,7 @@ The dataset was sourced from Kaggle: [**Most Streamed Spotify Songs 2023**](http
 ---
 
 ## 📸 Dashboard Preview
-*(Insert a screenshot or GIF of your dashboard here)*
+[![Dashboard Preview](SpotifyDB.png)](SpotifyDB.png)
 
 ---
 
