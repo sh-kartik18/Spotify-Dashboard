@@ -1,6 +1,6 @@
 # 🎵 Spotify Streaming Insights Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue) 
+![Python](https://img.shields.io/badge/Python-3.13.5-blue) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow) 
 ![Spotify API](https://img.shields.io/badge/Spotify%20Web%20API-Integrated-brightgreen) 
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blueviolet)
